@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Agenda</string>
+    <string name="hint_nombre">Nombre completo:</string>
+    <string name="hint_telefono">Numero telefonico:</string>
+    <string name="hint_correo_electronico">Sexo (M o F):</string>
+    <string name="btn_guarda">Guardar contacto</string>
+    <string name="menu_nuevo">Nuevo contacto</string>
+</resources>
